@@ -1,11 +1,11 @@
 {
-  "name": "@onekeyfe/kaspa-core-lib",
+  "name": "@digitalshieldfe/kaspa-core-lib",
   "version": "1.0.2",
   "main": "index.js",
   "authors": [
     {
-      "name": "Onekey",
-      "email": "dev@onekey.so"
+      "name": "DigitalShield",
+      "email": "dev@digitalshield.so"
     },
     {
       "name": "BitPay",
